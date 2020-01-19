@@ -1,0 +1,138 @@
+.checkOut_row {
+    margin-left: 150px;
+    margin-right: 132px;
+}
+input.btn.btn-primary.check_out {
+    width: 80px;
+    text-align: center;
+    margin-top: -4px;
+    margin-left: 0px;
+	color:#fff
+}
+p.checkOut-title {
+    margin-top: -38px;
+	color:#f1a807;
+}
+p.billing-title {
+    color: #fff;
+	margin-left:20px;
+}
+.shopper-informations {
+    border: 2px solid green;
+    background-color: navy;
+	padding: 5px;
+}
+
+.shopper-informations_review {
+    border: 2px solid green;
+    background-color: navy;
+	padding: 5px;
+	color:#fff;
+	margin-top: -58px;
+}
+p.shipping-checkout {
+    margin-top: -25px;
+    color: #04ef41;
+    text-align: center;
+    z-index: -999999;
+    float: right;
+	margin-left: 27px;
+    font-size: 14px;
+}
+.form-two, .form-one {
+    float: left;
+    width: 80% !important;
+}
+.signup-form input {
+    background: #F0F0E9;
+    border: medium none;
+    color: #696763;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    height: 40px;
+    margin-bottom: 10px;
+    outline: medium none;
+    padding-left: 10px;
+    width: 100%;
+}
+
+input.shipping-checkoutbox {
+    margin-left: -119px;
+    padding: 0px !important;
+    height: 15px !important;
+	z-index: 99999999999 !important;
+}
+.shoper_center {
+    margin-right: -142px;
+}
+
+.review-payment_thank {
+    text-align: center;
+    margin-top: 0px;
+    padding-bottom: 10;
+    padding-bottom: 56px;
+}
+h2.thank_1 {
+    color: #18e118;
+}
+span.thank_21 {
+    color: red;
+    font-size: 18px;
+}
+span.thank_11 {
+    color: #540be5;
+    text-transform: uppercase;
+}
+
+.review-payment_orderView {
+    text-align: center;
+    margin-top: 0px;
+    padding-bottom: 10;
+}
+.pro-search {
+    float: right;
+    margin-right: -60px;
+    margin-top: -35px;
+}
+
+//*invoice css */
+.invoice-title h2, .invoice-title h3 {
+    display: inline-block;
+}
+
+.table > tbody > tr > .no-line {
+    border-top: none;
+}
+
+.table > thead > tr > .no-line {
+    border-bottom: none;
+}
+
+.table > tbody > tr > .thick-line {
+    border-top: 2px solid;
+}
+.paginate {
+ margin-left: 334px;
+}
+input#pincode {
+    width: 35%;
+	margin-left: 58px;
+    margin-top: -23px;
+}
+input#pinCheck {
+    margin-top: -55px;
+    margin-left: 208px;
+}
+#pinMessage.alert.alert-danger {
+    width: 470px;
+    margin-left: 350px;
+}
+.curr_result {
+    margin-top:35px !important;
+    float: left;
+    margin-left: -130px;
+    font-size: 17px;
+    color: #FE980F;
+}
